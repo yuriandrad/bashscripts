@@ -1,5 +1,6 @@
 index.html
 index.php
+index.js
 login.php
 config.php
 dashboard.php
